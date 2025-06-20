@@ -159,8 +159,8 @@ This project is licensed under the [MIT License](LICENSE).
 
 ## 🧑‍💻 Author
 
-**Your Name**
-[GitHub](https://github.com/sahilmd01) • [LinkedIn](https://linkedin.com/in/codewithkinu)
+**SAHIL**
+[GitHub](https://github.com/sahilmd01) • [LinkedIn](https://linkedin.com/in/codewithkinu) • [youtube](https://youtube.com/@codewithkinu)
 
 ```
 
